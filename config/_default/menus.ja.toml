@@ -1,0 +1,19 @@
+[[main]]
+  name = "Posts"
+  pre = "pencil"
+  pageRef = "posts"
+  identifier = "ihGHEG0dMA"
+  weight = 1
+
+[[main]]
+  identifier = "x-twitter"
+  pre = "x-twitter"
+  url = "https://twitter.com/ttaka_66"
+  weight = 9998
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/ttaka66"
+  weight = 9999
+
